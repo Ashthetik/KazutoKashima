@@ -12,6 +12,7 @@ I'm a 17-year-old Backend, aspiring software developer, and network engineer (cu
 - - Key-Breaker (Chrome, Safari, Firefox, password cracker - *for self-learning*)
 - - Project Red Alice Rising (A Python & JS "AI")
 - - Some NPM Modules (Quick-Crypto, Discord-Mongo-Economy, QuickFunctions.js)
+- - xin1a cli (command-line hacking tool) - Dev Group : [Sidewinder Development](https://github.com/Sidewinder-Development)
 <br>
 
 ### Some more about me 👀
