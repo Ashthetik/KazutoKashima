@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a 18-year-old Backend, aspiring software developer, and network engineer (currently studying for the CCNA 200-301) <br>
+I'm an 18-year-old Backend, aspiring software developer, and network engineer (currently studying for the CCNA 200-301) <br>
 
 <br>
 
