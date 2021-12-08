@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm an 18-year-old who used to dev things.
+I'm an 18-year-old who does some dev-ing.
 
 <br>
 
