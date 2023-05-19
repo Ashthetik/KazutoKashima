@@ -109,6 +109,10 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashthetik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Ashthetik&column=8&theme=dark_lover&no-frame=true&no-bg=true"/>
+</a>
+
 ---
 
 ### Remember: You're loved 💜
