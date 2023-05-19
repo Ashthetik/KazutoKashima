@@ -59,6 +59,8 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 - Discord: [dsc.bio/its-ashthetik](https://dsc.bio/its-ashthetik)  
 - KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/068b88a8ee063ac3f864e0a6f5ad1518)
 
+<br />
+
 ---
   
 ### 🛠️ Languages and Tools:
@@ -102,16 +104,24 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
+<br />
+
 ---
 
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashthetik&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats:  
+<br/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashthetik&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashthetik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Ashthetik&column=8&theme=dark_lover&no-frame=true&no-bg=true"/>
-</a>
+</a>  
+
+<br />
+
+[![Holo-Pins or smthn](https://holopin.me/ashthetik)](https://holopin.io/@ashthetik)
 
 ---
 
