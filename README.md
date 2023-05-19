@@ -110,3 +110,5 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashthetik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### Remember: You're loved 💜
