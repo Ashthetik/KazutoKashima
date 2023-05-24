@@ -57,7 +57,7 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 - Session: 05e9e161b92c608b80c61bbf926f72ef1bcc3c0bad51dcd902f72ba726b5b68832  
 - Email: ashley@scarletai.xyz  
 - Discord: [dsc.bio/its-ashthetik](https://dsc.bio/its-ashthetik)  
-- KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/068b88a8ee063ac3f864e0a6f5ad1518)
+- KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/f01fe0d2f5ea8328cbd0c757526551f9)
 
 <br />
 
