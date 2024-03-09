@@ -54,7 +54,7 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 </h3>
 
 - Session: 05e9e161b92c608b80c61bbf926f72ef1bcc3c0bad51dcd902f72ba726b5b68832  
-- Email: [Updating Shortly...]
+- Email: [me@ashleyxir.tech](mail:me@ashleyxir.tech)
 - Discord: [dsc.bio/its-ashthetik](https://dsc.bio/its-ashthetik)  
 - KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/f01fe0d2f5ea8328cbd0c757526551f9)
 
