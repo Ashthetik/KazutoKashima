@@ -9,8 +9,8 @@
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://defcon.social/@itsashthetik">
+      <img src="ttps://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   -->
@@ -34,15 +34,14 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 
 - 🔭 I’m currently working on a #SuicidePrevention Project (More To Come Soon)
 
-- 🌱 I’m shortly (as of January 2024) studying my Double Degree in **Bachelor's of Cyber Security** and **Bachelor's of Criminology**
+- 🌱 I'm way too overqualified, but studied CSec, Network Engineering, Machine Learning, Psych and Soft Dev
 
 - 🤝 I’m looking for help with... Nothin' right now!
 
-- 👨‍💻 All of my projects are available at [https://ashleyxir.tech](https://ashleyxir.tech)
+- 👨‍💻 All of my projects are available either here, or at [https://ashleyxir.tech](https://ashleyxir.tech)
 
 - 💬 Ask me anything about: AI, Networking, Web, Psychology, and Software Engineering~
 
-- 📫 How to reach me **[Updating Shortly]**
 
 - Extra Details:
 - - Age: 20
@@ -57,6 +56,7 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 - Email: [me@ashleyxir.tech](mail:me@ashleyxir.tech)
 - Discord: [dsc.bio/its-ashthetik](https://dsc.bio/its-ashthetik)  
 - KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/f01fe0d2f5ea8328cbd0c757526551f9)
+- Mastodon/DEFCON.social: [@itsashthetik](https://defcon.social/@itsashthetik)
 
 <br />
 
