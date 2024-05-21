@@ -32,8 +32,8 @@
 ### 👩‍💻 About Me:
 I'm a Full Stack, Network Infra., Software, and Web Engineer~
 
-- 🔭 I’m currently working on a #SuicidePrevention Project (More To Come Soon)
-
+- 🔭 I’m currently working on [Polarity](https://github.com/Ashthetik/Polarity-); Game Engine Compatible AI System!
+  
 - 🌱 I'm way too overqualified, but studied CSec, Network Engineering, Machine Learning, Psych and Soft Dev
 
 - 🤝 I’m looking for help with... Nothin' right now!
