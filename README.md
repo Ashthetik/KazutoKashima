@@ -125,3 +125,5 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 ---
 
 ### Remember: You're loved 💜
+
+<sub>If you get any emails from me about tinned meats don't open them; they're spam.</sub>
